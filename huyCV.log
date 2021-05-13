@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.5.14)  13 MAY 2021 22:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.5.14)  14 MAY 2021 00:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1166,30 +1166,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip80
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 32.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 32.
+Package hyperref Info: Option `breaklinks' set `true' on input line 33.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 33.
  (/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.aux)
 \openout1 = `huyCV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Try loading font information for T5+lmr on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for T5+lmr on input line 33.
  (/usr/share/texmf/tex/latex/lm/t5lmr.fd
 File: t5lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1217,7 +1217,7 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 32.
+LaTeX Info: Redefining \microtypecontext on input line 33.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1230,14 +1230,14 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for T5+lmss on input line 32.
+LaTeX Font Info:    Try loading font information for T5+lmss on input line 33.
  (/usr/share/texmf/tex/latex/lm/t5lmss.fd
 File: t5lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/n/10.95'. Switching off
-(microtype)                protrusion for this font on input line 32.
+(microtype)                protrusion for this font on input line 33.
 
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
@@ -1275,7 +1275,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 33.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1283,9 +1283,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count285
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
  (/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.out) (/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.out)
 \@outlinefile=\write4
 \openout4 = `huyCV.out'.
@@ -1295,35 +1295,35 @@ LaTeX Info: Redefining \nameref on input line 32.
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/n/10'. Switching off
-(microtype)                protrusion for this font on input line 33.
+(microtype)                protrusion for this font on input line 34.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/sl/10'. Switching off
-(microtype)                protrusion for this font on input line 33.
+(microtype)                protrusion for this font on input line 34.
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 34.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 33.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 34.
  (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 34.
  (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 33.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 34.
  (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 33.
+(Font)              <10> on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
@@ -1335,92 +1335,101 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/n/34'. Switching off
-(microtype)                protrusion for this font on input line 33.
+(microtype)                protrusion for this font on input line 34.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/n/17.28'. Switching off
-(microtype)                protrusion for this font on input line 33.
+(microtype)                protrusion for this font on input line 34.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/sl/17.28'. Switching off
-(microtype)                protrusion for this font on input line 33.
+(microtype)                protrusion for this font on input line 34.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 35.
+(Font)              <10.95> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 35.
+(Font)              <6> on input line 36.
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/n/14.4'. Switching off
-(microtype)                protrusion for this font on input line 35.
+(microtype)                protrusion for this font on input line 36.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/bx/n/10.95'. Switching off
-(microtype)                protrusion for this font on input line 48.
+(microtype)                protrusion for this font on input line 49.
 
 LaTeX Font Info:    Font shape `T5/lmss/m/it' in size <10> not available
-(Font)              Font shape `T5/lmss/m/sl' tried instead on input line 48.
+(Font)              Font shape `T5/lmss/m/sl' tried instead on input line 49.
 
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 48--48
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 49--49
 [][] 
  []
 
 
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 53--53
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 54--54
 [][] 
  []
 
 
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 53--53
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 54--54
 [][] 
  []
 
 
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 53--53
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 54--54
 [][] 
  []
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/lmss/m/sl/10.95'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 LaTeX Font Info:    Font shape `T5/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T5/lmss/m/sl' tried instead on input line 55.
+(Font)              Font shape `T5/lmss/m/sl' tried instead on input line 56.
+LaTeX Font Info:    Try loading font information for T5+lmtt on input line 67.
+(/usr/share/texmf/tex/latex/lm/t5lmtt.fd
+File: t5lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package microtype Warning: I cannot find a protrusion list for font
+(microtype)                `T5/lmtt/m/n/10.95'. Switching off
+(microtype)                protrusion for this font on input line 67.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `huyCV.out' has not changed.
-(rerunfilecheck)             Checksum: 4070113156CEBA58991EFEE177A47F7F;711.
+(rerunfilecheck)             Checksum: 64F9BEF07F26CDEFE0E21564BE304C69;731.
  ) 
 Here is how much of TeX's memory you used:
- 30192 strings out of 492982
- 559064 string characters out of 6134896
- 628409 words of memory out of 5000000
- 33317 multiletter control sequences out of 15000+600000
- 618685 words of font info for 76 fonts, out of 8000000 for 9000
+ 30237 strings out of 492982
+ 559748 string characters out of 6134896
+ 628407 words of memory out of 5000000
+ 33355 multiletter control sequences out of 15000+600000
+ 619083 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,20n,58p,10400b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-t5.enc}</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.pdf" (2 pages, 138743 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-t5.enc}</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.pdf" (2 pages, 162924 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
  16453 words of extra memory for PDF output out of 17280 (max. 10000000)
 

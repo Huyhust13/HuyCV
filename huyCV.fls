@@ -308,6 +308,9 @@ INPUT /usr/share/texmf/fonts/tfm/public/lm/t5-lmssbx10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/t5-lmsso10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/t5-lmsso10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/t5-lmsso10.tfm
+INPUT /usr/share/texmf/tex/latex/lm/t5lmtt.fd
+INPUT /usr/share/texmf/tex/latex/lm/t5lmtt.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/t5-lmtt10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.aux
 INPUT /media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.out
@@ -319,4 +322,5 @@ INPUT /usr/share/texmf/fonts/type1/public/lm/lmss17.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
