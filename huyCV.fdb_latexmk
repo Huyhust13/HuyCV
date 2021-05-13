@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1620926732 "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.tex" "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.pdf" "huyCV" 1620926736
+["pdflatex"] 1620927628 "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.tex" "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.pdf" "huyCV" 1620927648
   "/etc/texmf/web2c/texmf.cnf" 1589413366 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.aux" 1620926732 1119 d2a234591a0dcf974e44881e45ec7548 ""
-  "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.tex" 1620926736 4952 9145e6653501da25e31fdedee7909a6e ""
+  "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.aux" 1620927628 1120 ec855265f9b925b77e439e608504c774 ""
+  "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.tex" 1620927648 4953 873c4492d7d6362edc78a0079001785e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1480098696 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm" 1480098696 3584 3169d30142b88a27d4ab0e3468e963a2 ""
@@ -186,13 +186,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1589413389 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1589413416 4126854 50f066d3d6c4d10abea9a5a13da264d4 ""
-  "huyCV.aux" 1620926732 1119 d2a234591a0dcf974e44881e45ec7548 ""
-  "huyCV.out" 1620926732 731 64f9bef07f26cdefe0e21564be304c69 ""
-  "huyCV.tex" 1620926736 4952 9145e6653501da25e31fdedee7909a6e ""
+  "huyCV.aux" 1620927628 1120 ec855265f9b925b77e439e608504c774 ""
+  "huyCV.out" 1620927628 736 12d5fa8ef51a6acd460fd7743171e6d4 ""
+  "huyCV.tex" 1620927648 4953 873c4492d7d6362edc78a0079001785e ""
   (generated)
   "huyCV.aux"
   "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.pdf"
-  "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.log"
-  "huyCV.log"
   "huyCV.pdf"
   "huyCV.out"
+  "huyCV.log"
+  "/media/huy/2Data/00.DATA/CV_latex/Huy CV/huyCV.log"
